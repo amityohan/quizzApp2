@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(157, 0, 255);
+    margin: 0;
+    padding:25px
+}
+
+.body{
+    max-width:600px;
+    margin:auto;
+    background:rgb(255, 255, 255);
+    padding: 60px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin: 40px;
+}
+
+.options{
+    margin: 30px;
+    width:  180px;
+    height:   60px;
+
+
+}
+
+.optionsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.actionButtons{
+    margin-left: 140px;
+}
+
+.nextPrevQuit{
+    margin-left:10px;
+}
